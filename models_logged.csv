@@ -1,0 +1,11 @@
+﻿model,accuracy,Model Version
+Decision Tree,62.26,Base
+Decision Tree,68.61,Gridsearched
+Random Forest,65.95,Base
+Random Forest,68.55,Gridsearched
+Logistic Regression,69.15,Base
+Logistic Regression,69.14,Gridsearched
+XGBoost,69.71,Base
+XGBoost,70.23,Gridsearched
+AdaBoost,64.37,Base
+AdaBoost,67.91,Gridsearched
