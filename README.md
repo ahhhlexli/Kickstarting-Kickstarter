@@ -25,7 +25,7 @@
 
 # Exploratory Data Analysis
 
-![Success Count](images/success_count.PNG)
+![Success Count](images/success_count.png)
 
 # Modelling
 ## Models Compared
