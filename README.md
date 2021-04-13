@@ -25,7 +25,28 @@
 
 # Exploratory Data Analysis
 
+### Insights from the Data
+- 2/3 of all projects fail. Success rate is ~33%.
+
 ![Success Count](images/success_count.jpg)
+
+- Median Number of backers for a Kickstarter project is 12 backers. 
+- 75% of projects under 100 backers
+
+![Boxplot of Backers](images/backers_boxplot.jpg)
+
+- Most failed projects have very few backers.
+- The more backers a project has, the higher the frequency of success.
+
+![Distribution of Backers](images/backers_distribution.jpg)
+
+- Setting realistic goal amounts is important. Having goal amounts that are too high means they are hard to achieve.
+
+![Distribution of Goal Amount](images/goal_amount_dist.jpg)
+
+- Success rate is relatively even between countries. No one country has a success rate over 40% (excluding 'Unknown' category).
+
+![Success Rate by Country](images/country_success.jpg)
 
 # Modelling
 ## Models Compared
